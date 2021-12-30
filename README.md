@@ -37,6 +37,7 @@ window.webpackChunkdiscord_app.push([
     }
 ]);
 ```
+📺 See the Tutorial video by BrandHax on YouTube here: [Watch Here](https://youtu.be/McmFAGhCM1M)
 #
 
 🚩 **Get System Tag:**
