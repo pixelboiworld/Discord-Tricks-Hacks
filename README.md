@@ -22,6 +22,7 @@ This repo is strictly only for **EDUCATIONAL & TESTING Purposes**, I does not en
 ```diff
 + This script gives you all discord badges on your client and you can access different badges by changing flags in the snippet.
 ```
+![alt text](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/discord_all_badges.png?raw=true)
 ```js
 window.webpackChunkdiscord_app.push([
     [Math.random()], {}, (req) => {
