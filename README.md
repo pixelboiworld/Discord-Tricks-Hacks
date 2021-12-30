@@ -22,7 +22,7 @@ This repo is strictly only for **EDUCATIONAL & TESTING Purposes**, I does not en
 ```diff
 + This script gives you all discord badges on your client and you can access different badges by changing flags in the snippet.
 ```
-![alt text](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/discord_all_badges.png?raw=true)
+![alt text](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/discord_badges.jpg?raw=true)
 ```js
 window.webpackChunkdiscord_app.push([
     [Math.random()], {}, (req) => {
@@ -37,3 +37,47 @@ window.webpackChunkdiscord_app.push([
     }
 ]);
 ```
+#
+
+🚩 **Get System Tag:**
+```diff
++ This script gives you system tag on your profile.
+```
+![alt text](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/system_tag.jpg?raw=true)
+```js
+window.webpackChunkdiscord_app.push([
+    [Math.random()], {}, (req) => {
+        for (const m of Object.keys(req.c).map((x) => req.c[x].exports).filter((x) => x)) {
+            if (m.default && m.default.getCurrentUser !== undefined) {
+                return m.default.getCurrentUser().system = true
+            }
+            if (m.getCurrentUser !== undefined) {
+                return m.getCurrentUser().system = true
+            }
+        }
+    }
+]);
+```
+#
+
+🚩 **Get Bot Tag:**
+```diff
++ This script gives you bot tag on your profile.
+```
+![alt text](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/bot_tag.jpg?raw=true)
+```js
+window.webpackChunkdiscord_app.push([
+    [Math.random()], {}, (req) => {
+        for (const m of Object.keys(req.c).map((x) => req.c[x].exports).filter((x) => x)) {
+            if (m.default && m.default.getCurrentUser !== undefined) {
+                return m.default.getCurrentUser().bot  = true
+            }
+            if (m.getCurrentUser !== undefined) {
+                return m.getCurrentUser().bot = true
+            }
+        }
+    }
+]);
+```
+#
+More snippets comming soon, This repo already in construction...
