@@ -20,7 +20,7 @@ This repo is strictly only for **EDUCATIONAL & TESTING Purposes**, I does not en
 
 🚩 **Get All Badges:**
 ```diff
-+ This script gives you all discord badges on your client and you can access different badges by changing flags in the snippet.
++ This script gives you all discord badges on your client and you can access different badges by changing [flag] in the snippet.
 ```
 ![alt text](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/discord_badges.jpg?raw=true)
 ```js
