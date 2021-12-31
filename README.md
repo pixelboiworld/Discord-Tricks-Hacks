@@ -24,14 +24,15 @@ This repo is strictly only for **EDUCATIONAL & TESTING Purposes**, I does not en
 ```
 ![alt text](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/discord_badges.jpg?raw=true)
 ```js
+let flag = '24';
 window.webpackChunkdiscord_app.push([
     [Math.random()], {}, (req) => {
         for (const m of Object.keys(req.c).map((x) => req.c[x].exports).filter((x) => x)) {
             if (m.default && m.default.getCurrentUser !== undefined) {
-                return m.default.getCurrentUser().flags = -24;
+                return m.default.getCurrentUser().flags = -flag;
             }
 			 if (m.default && m.default.getCurrentUser !== undefined) {
-                return m.default.getCurrentUser().public_flags += 24;
+                return m.default.getCurrentUser().public_flags += flag;
             }
         }
     }
