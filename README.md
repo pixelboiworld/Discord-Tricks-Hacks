@@ -18,7 +18,7 @@ This repo is strictly only for **EDUCATIONAL & TESTING Purposes**, I does not en
 5: Press "Enter" and Run the script.<br />
 #
 
-🚩 **Get All Badges:**
+🚩 **Get All Badges:** V 1.1
 ```diff
 + This script gives you all discord badges on your client and you can access different badges by changing [flag] in the snippet.
 ```
@@ -41,7 +41,7 @@ window.webpackChunkdiscord_app.push([
 📺 See the Tutorial video by BrandHax on YouTube here: [Watch Here](https://youtu.be/McmFAGhCM1M)
 #
 
-🚩 **Get System Tag:**
+🚩 **Get System Tag:** V 1.0
 ```diff
 + This script gives you system tag on your profile.
 ```
@@ -62,7 +62,7 @@ window.webpackChunkdiscord_app.push([
 ```
 #
 
-🚩 **Get Bot Tag:**
+🚩 **Get Bot Tag:** V 1.0
 ```diff
 + This script gives you bot tag on your profile.
 ```
