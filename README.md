@@ -17,7 +17,7 @@ This repo is strictly only for **EDUCATIONAL & TESTING Purposes**, I does not en
 4: Pate the snippets in the console.<br />
 5: Press "Enter" and Run the script.<br />
 
-<sub><sup>_🎉 This Scripts legitimately gives you client-side stuffs._</sup></sub>
+ <font size="1">🎉 This Scripts legitimately gives you client-side stuffs.</font>
 #
 
 🚩 **Get All Badges:** V 1.1
