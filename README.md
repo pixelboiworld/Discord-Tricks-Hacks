@@ -16,6 +16,8 @@ This repo is strictly only for **EDUCATIONAL & TESTING Purposes**, I does not en
 3: Active the console tab if not.<br />
 4: Pate the snippets in the console.<br />
 5: Press "Enter" and Run the script.<br />
+
+🎉 This Scripts legitimately gives you client-side stuffs
 #
 
 🚩 **Get All Badges:** V 1.1
