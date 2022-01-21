@@ -133,6 +133,9 @@ window.webpackChunkdiscord_app.push([
     }
 ]);
 ```
+#
+# Settings & Configuration Stuffs:
+
 ### How to get Server ID?
 
 + Step 1: Open User Settings in Discord.
@@ -149,4 +152,5 @@ window.webpackChunkdiscord_app.push([
 
 ![alt text](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/copy_id_3.jpg?raw=true)
 #
+
 More snippets comming soon, This repo already in construction...
