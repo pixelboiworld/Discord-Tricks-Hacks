@@ -85,4 +85,51 @@ window.webpackChunkdiscord_app.push([
 ```
 📺 See the Tutorial video by BrandHax on YouTube here: [Watch Here](https://youtu.be/rl19_V7MZiA)
 #
+
+🚩 **Get server Verified Tag:**
+```diff
++ This script add Discord verified tag to your server.
+This snippets needs [SERVER_ID].
+[Click Here](#How-to-get-Server-ID-?): how to get any discord server id?
+```
+![alt text](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/discord_server_verified_badge.jpg?raw=true)
+```js
+window.webpackChunkdiscord_app.push([
+    [Math.random()], {}, (req) => {
+        for (const m of Object.keys(req.c).map((x) => req.c[x].exports).filter((x) => x)) {
+            if (m.default && m.default.getGuild !== undefined) {
+                return m.default.getGuild('SERVER_ID').features.add('VERIFIED')
+            }
+            if (m.getCurrentUser !== undefined) {
+                return m.getGuild('SERVER_ID').features.add('VERIFIED')
+            }
+        }
+    }
+]);
+```
+#
+
+🚩 **Get server Partnered Tag:**
+```diff
++ This script add Discord partnered tag to your server.
+```
+![alt text](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/discord_server_partnered_badge.jpg?raw=true)
+```js
+window.webpackChunkdiscord_app.push([
+    [Math.random()], {}, (req) => {
+        for (const m of Object.keys(req.c).map((x) => req.c[x].exports).filter((x) => x)) {
+			if (m.default && m.default.getGuild !== undefined) {
+                return m.default.getGuild('SERVER_ID').features.add('PARTNERED')
+            }
+            if (m.getCurrentUser !== undefined) {
+                return m.getGuild('SERVER_ID').features.add('PARTNERED')
+            }
+          
+        }
+    }
+]);
+```
+### How to get Server ID?
+
+#
 More snippets comming soon, This repo already in construction...
