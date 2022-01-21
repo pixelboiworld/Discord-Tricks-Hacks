@@ -14,7 +14,7 @@ This repo is strictly only for **EDUCATIONAL & TESTING Purposes**, I does not en
 1: Open your Discord in web browser or in Desktop App.<br />
 2: Press Ctrl+Shift+I on your PC [for mac users can press Opt+command+I]<br />
 3: Active the console tab if not.<br />
-4: Pate the snippets in the console.<br />
+4: Paste the snippets in the console.<br />
 5: Press "Enter" and Run the script.<br />
 
 <sub><sup>_🎉 This Scripts legitimately gives you client-side stuffs._</sup></sub>
@@ -83,5 +83,6 @@ window.webpackChunkdiscord_app.push([
     }
 ]);
 ```
+📺 See the Tutorial video by BrandHax on YouTube here: [Watch Here](https://youtu.be/rl19_V7MZiA)
 #
 More snippets comming soon, This repo already in construction...
