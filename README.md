@@ -91,7 +91,7 @@ window.webpackChunkdiscord_app.push([
 + This script add Discord verified tag to your server.
 This snippets needs [SERVER_ID].
 ```
-[Click Here](#How-to-get-Server-ID-?): how to get any discord server id?
+[Click Here](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/README.md#how-to-get-server-id): how to get any discord server id?
 ![alt text](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/discord_server_verified_badge.jpg?raw=true)
 ```js
 window.webpackChunkdiscord_app.push([
