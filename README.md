@@ -7,7 +7,7 @@ This repo is strictly only for **EDUCATIONAL & TESTING Purposes**, I does not en
 
 
 
-# Console Hacks:
+# 🖥 Console Hacks:
 
 ✔ **How to Use this Snippets** 👉
 
@@ -91,7 +91,7 @@ window.webpackChunkdiscord_app.push([
 + This script add Discord verified tag to your server.
 This snippets needs [SERVER_ID].
 
-[Click Here](#how-to-get-server-id): how to get any discord server id?
+[Click Here](#-how-to-get-server-id): how to get any discord server id?
 
 ![alt text](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/discord_server_verified_badge.jpg?raw=true)
 ```js
@@ -115,7 +115,7 @@ window.webpackChunkdiscord_app.push([
 + This script add Discord partnered tag to your server.
 This snippets needs [SERVER_ID].
 
-[Click Here](#how-to-get-server-id): how to get any discord server id?
+[Click Here](#-how-to-get-server-id): how to get any discord server id?
 
 ![alt text](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/discord_server_partnered_badge.jpg?raw=true)
 ```js
@@ -136,9 +136,9 @@ window.webpackChunkdiscord_app.push([
 #
 #
 
-# Settings & Configuration Stuffs:
+# ⚙ Settings & Configuration Stuffs:
 
-### ⚙ How to get Server ID?
+### 🧩 How to get Server ID?
 
 + Step 1: Open User Settings in Discord.
 
