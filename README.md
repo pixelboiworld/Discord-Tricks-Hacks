@@ -92,6 +92,7 @@ window.webpackChunkdiscord_app.push([
 This snippets needs [SERVER_ID].
 ```
 [Click Here](#how-to-get-server-id): how to get any discord server id?
+
 ![alt text](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/discord_server_verified_badge.jpg?raw=true)
 ```js
 window.webpackChunkdiscord_app.push([
@@ -115,6 +116,7 @@ window.webpackChunkdiscord_app.push([
 This snippets needs [SERVER_ID].
 ```
 [Click Here](#how-to-get-server-id): how to get any discord server id?
+
 ![alt text](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/discord_server_partnered_badge.jpg?raw=true)
 ```js
 window.webpackChunkdiscord_app.push([
@@ -132,6 +134,9 @@ window.webpackChunkdiscord_app.push([
 ]);
 ```
 ### How to get Server ID?
-
+```diff
++ Step 1: Open User Settings in Discord.
+```
+![alt text](![image](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/copy_id_1.jpg?raw=true))
 #
 More snippets comming soon, This repo already in construction...
