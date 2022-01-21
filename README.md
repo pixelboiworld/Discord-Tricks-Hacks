@@ -44,9 +44,9 @@ window.webpackChunkdiscord_app.push([
 #
 
 🚩 **Get System Tag:** V 1.0
-```diff
+
 + This script gives you system tag on your profile.
-```
+
 ![alt text](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/system_tag.jpg?raw=true)
 ```js
 window.webpackChunkdiscord_app.push([
@@ -65,9 +65,9 @@ window.webpackChunkdiscord_app.push([
 #
 
 🚩 **Get Bot Tag:** V 1.0
-```diff
+
 + This script gives you bot tag on your profile.
-```
+
 ![alt text](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/bot_tag.jpg?raw=true)
 ```js
 window.webpackChunkdiscord_app.push([
@@ -87,10 +87,10 @@ window.webpackChunkdiscord_app.push([
 #
 
 🚩 **Get server Verified Tag:** V 1.0
-```diff
+
 + This script add Discord verified tag to your server.
 This snippets needs [SERVER_ID].
-```
+
 [Click Here](#how-to-get-server-id): how to get any discord server id?
 
 ![alt text](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/discord_server_verified_badge.jpg?raw=true)
@@ -111,10 +111,10 @@ window.webpackChunkdiscord_app.push([
 #
 
 🚩 **Get server Partnered Tag:** V 1.0
-```diff
+
 + This script add Discord partnered tag to your server.
 This snippets needs [SERVER_ID].
-```
+
 [Click Here](#how-to-get-server-id): how to get any discord server id?
 
 ![alt text](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/discord_server_partnered_badge.jpg?raw=true)
@@ -134,9 +134,9 @@ window.webpackChunkdiscord_app.push([
 ]);
 ```
 ### How to get Server ID?
-```diff
+
 + Step 1: Open User Settings in Discord.
-```
+
 ![alt text](![image](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/copy_id_1.jpg?raw=true))
 #
 More snippets comming soon, This repo already in construction...
