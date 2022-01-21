@@ -141,12 +141,12 @@ window.webpackChunkdiscord_app.push([
 
 
 + Step 2: Scroll to Advance and activate Developer Options.
-+ 
+
 ![alt text](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/copy_id_2.jpg?raw=true)
 
 
 + Step 3: Now press & hold "SHIFT" on keyboard and right click, then select COPY ID, that's it.
-+ 
+
 ![alt text](https://github.com/pixelboiworld/Discord-Tricks-Hacks/blob/main/Images/copy_id_3.jpg?raw=true)
 #
 More snippets comming soon, This repo already in construction...
